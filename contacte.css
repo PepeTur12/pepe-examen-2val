@@ -1,3 +1,8 @@
+body{
+
+    background-color: lightsalmon;
+}
+
 header{
     background-color: lightpink;
     color: blue;
@@ -23,20 +28,20 @@ nav{
     
 }
 
+h6{
 
-img{
+    color: blue;
+}
 
-height: 400px;
-width: 400px;
+.opinio{
+    height: 200px;
+    width: 220px;
 
 }
 
-.anteriors{
-    background-color: salmon;
-    margin: 100px;
-    border: 100px;
-
-    margin-left: 100px;
-    margin-top: 100px;
+section{
+    text-align:center;
+    font-weight: bolder;
+    color: blue;
 
 }
